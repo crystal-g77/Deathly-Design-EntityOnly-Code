@@ -1,4 +1,4 @@
-# Deathly-Design-EntityOnly-Code
+# Deathly-Design
 This is just a small code sample from the full project, which itself is private.
 
 A built version of the game can be found here: https://github.com/crystal-g77/Deathly-Design-Build
