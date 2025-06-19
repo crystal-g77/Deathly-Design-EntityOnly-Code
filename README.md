@@ -5,7 +5,7 @@
 # Deathly-Design
 A PC game where players can build their monster by choosing which upgrades and weapons they want to equip. And then take their monster into the world and wreak havoc by destroying everything.
 
-This is just a small code sample from the project; the full project is private.
+This is just a small code sample of the entity system (player and AI) from the project; the full project is private.
 
 ## Important Links
 Trailer for the game: https://www.youtube.com/watch?v=LQMK-05wKFk
