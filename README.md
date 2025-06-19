@@ -9,6 +9,7 @@ This is just a small code sample from the project; the full project is private.
 
 ## Important Links
 Trailer for the game: https://www.youtube.com/watch?v=LQMK-05wKFk
+
 Built game: https://github.com/crystal-g77/Deathly-Design-Build
 
 ## Narrative
